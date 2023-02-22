@@ -42,7 +42,7 @@ def find_smallest_positive(xs):
         if xs[mid] > 0:
             if mid == 0:
                 return mid
-            if xs[mid-1] <= 0:
+            if xs[mid - 1] <= 0:
                 return mid
             else:
                 return go(xs, left, mid - 1)
@@ -166,8 +166,8 @@ def argmin(f, lo, hi, epsilon=1e-3):
     if hi - lo < epsilon:
         return (lo + hi) / 2
 
-    m1 = (hi - lo)/10 + lo
-    m2 = hi - (hi - lo)/10
+    m1 = (hi - lo) / 10 + lo
+    m2 = hi - (hi - lo) / 10
 
     if f(m1) < f(m2):
         return argmin(f, lo, m2, epsilon)
