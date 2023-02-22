@@ -1,6 +1,6 @@
 # Binary Search 
-[![](https://github.com/mikeizbicki/binary_search/workflows/tests/badge.svg)](https://github.com/mikeizbicki/binary_search/actions?query=workflow%3Atests)
-[![](https://github.com/mikeizbicki/binary_search/workflows/extra_credit/badge.svg)](https://github.com/mikeizbicki/binary_search/actions?query=workflow%3Atests)
+[![](https://github.com/meghnapamula/binary_search/workflows/tests/badge.svg)](https://github.com/meghnapamula/binary_search/actions?query=workflow%3Atests)
+[![](https://github.com/meghnapamula/binary_search/workflows/extra_credit/badge.svg)](https://github.com/meghnapamula/binary_search/actions?query=workflow%3Atests)
 
 You will implement several variations of the binary search algorithm.
 
@@ -11,7 +11,7 @@ You will implement several variations of the binary search algorithm.
 
 ## Tasks
 
-Complete the following tasks:
+Complete the following tasks!
 
 1. Fork the [binary\_search repo](https://github.com/mikeizbicki/binary_search) and enable github actions
 1. Update the `README.md` file so that the test case badges point to your forked repo
